@@ -46,3 +46,40 @@ nav a{
     color: #fff;
 }
 
+.text-box{
+    margin-top: 20%;
+    max-width: 600px;
+}
+
+.text-box h1{
+    font-size: 70px;
+    line-height: 80px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.text-box p{
+    font-size: 1rem;
+    line-height: 28px;
+    
+}
+
+.text-box button{
+    font-size: 15px;
+    padding:    20px 40px;
+    border-radius: 50px;
+    border: 0;
+    outline: 0;
+    margin-top: 30px;
+    margin-right: 10px;
+    font-weight: 500;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.text-box button:last-child{
+    background: #5957cf;
+    color: #fff;
+}
+
+
