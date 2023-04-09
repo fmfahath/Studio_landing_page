@@ -13,3 +13,36 @@
     padding: 10px 8%;
     position: relative;
 }
+
+nav {
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    /* background-color: aqua; */
+}
+
+nav img{
+    width: 200px;
+}
+nav ul{
+    flex: 1;
+    text-align: center;
+}
+
+nav ul  li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+
