@@ -82,4 +82,12 @@ nav a{
     color: #fff;
 }
 
-
+.feature-img{
+    width: 400px;
+    position: absolute;
+    top: 18%;
+    right: 15%;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    z-index: 2;
+}
