@@ -101,3 +101,16 @@ nav a{
     background: linear-gradient(#8569ff, #006786);
     z-index: 1;
 }
+.side-bar a{
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+
+.side-bar a img  {
+    height: 30px;
+    margin-left: 20px;
+    transform: rotate(-90deg);
+}
